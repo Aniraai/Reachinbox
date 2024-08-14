@@ -3,6 +3,25 @@
 ## Description
 Onebox is a web application designed to manage and interact with email replies. The application has a frontend built with React.js and a backend powered by Node.js and Express. It includes features such as email management, reply functionality, and user activity tracking.
 
+## Project Screenshot
+
+Here's a screenshot of the project:
+
+###  Implementthe login page- Use the design provided
+### Onceloggedin the user should be taken to the onebox screen. /google-login
+![Project Screenshot](images/Screenshot_20240814_171037.png)
+### keyboard shortcuts in onebox- “D” should delete. “R” should open Reply box
+### custom text editor (Need to Add Custom button in editor like “SAVE” and “Variables”)
+![Project Screenshot](images/Screenshot_20240814_171109.png)
+
+### Clicking on send should send Reply
+![Project Screenshot](images/Screenshot_20240814_171054.png)
+
+### light and dark mode
+![Project Screenshot](images/Screenshot_20240814_171152.png)
+
+
+
 ## Installation
 
 ### Clone the Repository
@@ -125,14 +144,11 @@ Additional Information
 Contributing
 
 Feel free to fork the repository, make improvements, and submit pull requests. Ensure that all changes are well-documented and tested.
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-sql
 
 
-### Final Steps
+
+
+###Final Steps
 
 1. **Save the `README.md` File**: Create a new file named `README.md` in the root directory of your project and paste the content above into it.
 

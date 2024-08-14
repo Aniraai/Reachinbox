@@ -148,7 +148,7 @@ const Onebox = () => {
         cursor: 'pointer',
         position: 'fixed',
         bottom: '20px',
-        right: '20px',
+        right: '1000px',
         zIndex: 1000,
     };
 
