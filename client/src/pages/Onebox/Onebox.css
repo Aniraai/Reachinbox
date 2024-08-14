@@ -1,0 +1,44 @@
+.onebox {
+    display: flex;
+}
+
+.sidebar {
+    width: 60px;
+    background-color: #333;
+    color: white;
+}
+
+.email-list {
+    width: 300px;
+    background-color: #222;
+    color: white;
+}
+
+.main-content {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.email-detail, .lead-details {
+    padding: 20px;
+}
+
+.email-detail {
+    flex: 2;
+    background-color: #111;
+}
+
+.lead-details {
+    flex: 1;
+    background-color: #333;
+    color: white;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #444;
+    padding: 10px;
+    color: white;
+}
